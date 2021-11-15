@@ -13,6 +13,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage": "https://automedon.github.io/shop-React/",
+  "author": "https://github.com/Automedon",
   "eslintConfig": {
     "extends": "react-app"
   },
